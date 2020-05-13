@@ -29,4 +29,6 @@ End of this CASE STUDY after evaluating Classification Report of Improvised Mode
 
 Reference: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
+Connect: https://www.linkedin.com/in/mrnikhilgupta/
+
 ![](NIKHIL-GUPTA-CASE-STUDY-BREAST-CANCER-CLASSIFICATION.jpg)</br>
